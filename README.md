@@ -4,7 +4,7 @@ Add your client, services, prices and tax — then generate a clean, professiona
 ---
 
 ## Live Demo
-_Coming soon_
+https://invoice-generator-seven-beryl.vercel.app/
 
 ---
 
